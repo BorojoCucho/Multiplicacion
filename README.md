@@ -1,7 +1,26 @@
-# Multiplicacion
+
 # autor el dr house
 ![Descripción de la imagen](https://th.bing.com/th/id/OIP.cfa7W_09tV2Q_HvplJlPSQHaFj?w=217&h=180&c=7&r=0&o=7&pid=1.7&rm=3)
-<span style="color: red;"># Ideal para principiantes, este código demuestra cómo realizar operaciones matemáticas básicas utilizando funciones en cualquier lenguaje de programación.</span>
+# Tabla de Multiplicar
+
+![Tabla de Multiplicar](https://th.bing.com/th/id/OIP.cfa7W_09tV2Q_HvplJlPSQHaFj?w=217&h=180&c=7&r=0&o=7&pid=1.7&rm=3)
+
+Este programa recibe un número ingresado por el usuario y genera su tabla de multiplicar del 1 al 10.
+
+<span style="color: green;">El código es sencillo y fácil de entender, ideal para quienes están comenzando a programar.</span>
+
+---
+
+## Código
+
+```python
+numero = int(input("Ingrese un número para generar su tabla de multiplicar: "))
+
+print(f"Tabla de multiplicar del {numero}:")
+
+for i in range(1, 11):
+    resultado = numero * i
+    print(f"{numero} x {i} = {resultado}")
 ## 😏👌 BADGES
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

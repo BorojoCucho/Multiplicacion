@@ -17,7 +17,7 @@ Este programa recibe un número ingresado por el usuario y genera su tabla de mu
 
 ---
 ### Y por ultimo el codigo gracias por ver 
-! (https://tse1.mm.bing.net/th/id/OIP.7LsUnDq5IFCt4P5CdDQTxgHaJV?rs=1&pid=ImgDetMain&o=7&rm=3)
+![Descripción de la imagen](https://tse1.mm.bing.net/th/id/OIP.7LsUnDq5IFCt4P5CdDQTxgHaJV?rs=1&pid=ImgDetMain&o=7&rm=3)
 ## Código
 
 ```python
